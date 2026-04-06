@@ -30,6 +30,6 @@ node app.js
 | Créer     | `Model.save()`                                       |
 | Lire tous | `Model.find()`                                         |
 | Lire un   | `Model.findOne({ champ: valeur })`                     |
-| Modifier  | `Model.findOneAndUpdate(filtre, modif, { new: true })` |
+| Modifier  | `Model.updateOne(filtre, modif)` |
 | Supprimer | `Model.deleteOne(filtre)`                              |
 | Joindre   | `.populate('champ')`                                   |
