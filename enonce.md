@@ -28,7 +28,7 @@ musicode/
 
 ### Étape 1 : Récupération du Projet
 
-1. Créez un dossier `OH-MongoDB` sur votre bureau
+1. Créez un dossier `OH-MongoDB` 
 2. Ouvrez ce dossier dans VS Code
 3. Clonez le repository : `git clone https://github.com/Yipno/musicode`
 4. Installez les dépendances : `yarn install`
