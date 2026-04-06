@@ -27,7 +27,7 @@ node app.js
 
 | Opération | Méthode Mongoose                                       |
 | --------- | ------------------------------------------------------ |
-| Créer     | `Model.create()`                                       |
+| Créer     | `Model.save()`                                       |
 | Lire tous | `Model.find()`                                         |
 | Lire un   | `Model.findOne({ champ: valeur })`                     |
 | Modifier  | `Model.findOneAndUpdate(filtre, modif, { new: true })` |
