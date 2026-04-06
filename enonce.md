@@ -32,8 +32,9 @@ musicode/
 2. Ouvrez ce dossier dans VS Code
 3. Clonez le repository : `git clone https://github.com/Yipno/musicode`
 4. Installez les dépendances : `yarn install`
-5. Créez une base de données dans MongoDB Atlas ou Compass
-6. Configurez votre fichier models/connection.js
+5. Installez mongoose avec `yarn add mongoose`
+6. Créez une base de données dans MongoDB Atlas ou Compass
+7. Configurez votre fichier models/connection.js
 
 ### Étape 2 : Création des Modèles
 
