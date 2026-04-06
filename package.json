@@ -1,0 +1,12 @@
+{
+  "name": "musicode",
+  "version": "1.0.0",
+  "description": "Plateforme musicale - exercice MongoDB & Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
