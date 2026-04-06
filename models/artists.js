@@ -5,7 +5,7 @@ const mongoose = require('./connection');
 // - genre       : String
 // - country     : String
 // - formedYear : Number
-// - stats      : sous-document avec monthlyListeners (Number) et totalAlbums (Number)
+// - stats      : sous-document avec monthlyListeners (Number) et totalAlbums (Number) - (vous pouvez inventer les nombres)
 
 const artistSchema = new mongoose.Schema({
   // à compléter...
